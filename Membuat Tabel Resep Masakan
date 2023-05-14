@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Resep Masakan</title>
+</head>
+<body>
+	<h1>Resep Mie Goreng Sederhana</h1>
+	<table>
+		<tr>
+			<th>Bahan-bahan</th>
+			<th>Jumlah</th>
+		</tr>
+		<tr>
+			<td>Mie Instan Goreng</td>
+			<td>2 bungkus</td>
+		</tr>
+		<tr>
+			<td>Telur</td>
+			<td>2 butir</td>
+		</tr>
+		<tr>
+			<td>Bawang putih</td>
+			<td>3 siung</td>
+		</tr>
+		<tr>
+			<td>Bawang merah</td>
+			<td>2 siung</td>
+		</tr>
+		<tr>
+			<td>Cabe merah</td>
+			<td>3 buah</td>
+		</tr>
+		<tr>
+			<td>Daun Sawi</td>
+			<td>2 lembar</td>
+		</tr>
+		<tr>
+			<td>Garam</td>
+			<td>secukupnya</td>
+		</tr>
+		<tr>
+			<td>Minyak goreng</td>
+			<td>2 sendok makan</td>
+		</tr>
+	</table>
